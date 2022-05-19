@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\obj\Debug\Forma.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\obj\Debug\Forma.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\bin\Debug\Forma.exe.config
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\bin\Debug\Forma.exe
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\bin\Debug\Forma.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\bin\Debug\entitati.dll
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\bin\Debug\entitati.pdb
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\obj\Debug\Forma.csproj.CopyComplete
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\obj\Debug\Forma.exe
+C:\Users\Asus\Desktop\Facultate\An2Sem2\ProgramareOrientataPeObiecte\Variante\Forma\Forma\obj\Debug\Forma.pdb
